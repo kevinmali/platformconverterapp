@@ -1,3 +1,8 @@
+![Screenshot_20230810_230940](https://github.com/kevinmali/platformconverterapp/assets/132121875/cddd68f4-e58a-40e4-b03a-4f2fe1119406)
+![Screenshot_20230810_230737](https://github.com/kevinmali/platformconverterapp/assets/132121875/e1bbcc7c-a610-4a8c-9268-39b3cd66297b)
+![Screenshot_20230810_230714](https://github.com/kevinmali/platformconverterapp/assets/132121875/f1f21eee-50d3-4bd0-8298-9ea00a3ce004)
+![Screenshot_20230810_230505](https://github.com/kevinmali/platformconverterapp/assets/132121875/346d565b-d9c4-47d6-b87e-b5f9a295e84c)
+
 # platformconverterapp
 
 A new Flutter project.
