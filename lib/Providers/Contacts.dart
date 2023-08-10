@@ -4,7 +4,6 @@ import 'package:platformconverterapp/utils/Modal/Profile.dart';
 //
 class Contactprovider extends ChangeNotifier {
   static List<Contact> allcontact = [];
-  List<Contact> get contact => [];
 
   void add_contact(Contact add) {
     allcontact.add(add);

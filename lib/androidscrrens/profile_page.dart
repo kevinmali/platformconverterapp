@@ -165,6 +165,7 @@ class _Profile1State extends State<Profile1> {
               )),
           GestureDetector(
             onTap: () {
+              print("hii");
               Provider.of<Contactprovider>(context, listen: false).add_contact(
                 Contact(
                   Firstname: Global.namecontroller.text,
