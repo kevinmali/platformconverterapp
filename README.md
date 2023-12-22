@@ -42,14 +42,14 @@ Project Evaluation:
 - Quality of code and project structure
 - Presentation quality and clarity of communication
 
-<img src="https://github.com/kevinmali/platformconverterapp/assets/132121875/cddd68f4-e58a-40e4-b03a-4f2fe1119406" width="200px">
-<img src="https://github.com/kevinmali/platformconverterapp/assets/132121875/e1bbcc7c-a610-4a8c-9268-39b3cd66297b" width="200px">
-<img src="https://github.com/kevinmali/platformconverterapp/assets/132121875/f1f21eee-50d3-4bd0-8298-9ea00a3ce004" width="200px">
-<img src="https://github.com/kevinmali/platformconverterapp/assets/132121875/346d565b-d9c4-47d6-b87e-b5f9a295e84c" width="200px">
-<img src="https://github.com/kevinmali/platformconverterapp/assets/132121875/aa5a81cd-6e5b-4b05-b3a6-68232d5dc1a0" width="200px">
-<img src="https://github.com/kevinmali/platformconverterapp/assets/132121875/ea9d6b3c-7e74-4ca1-9699-1e7e6b03f6e6" width="200px">
-<img src="https://github.com/kevinmali/platformconverterapp/assets/132121875/37a173c3-228c-4602-b577-678d815e00e5" width="200px">
-<img src="https://github.com/kevinmali/platformconverterapp/assets/132121875/872c6a33-05e9-4589-ae2e-03ea9bf2f087" width="200px">
-<img src="https://github.com/kevinmali/platformconverterapp/assets/132121875/5fa395fc-f0ff-4d88-b854-5da5e9baf260" width="200px">
-<img src="https://github.com/kevinmali/platformconverterapp/assets/132121875/b99c6f4d-df84-456b-9f39-783d10103197" width="200px">
+<img src="https://github.com/kevinmali/platformconverterapp/assets/132121875/6382da16-a5ac-4569-9d9d-204d176448eb" width="300px">
+<img src="https://github.com/kevinmali/platformconverterapp/assets/132121875/e238c573-ade8-4281-8dcb-769852d29f2a" width="300px">
+<img src="https://github.com/kevinmali/platformconverterapp/assets/132121875/4d0b55ed-1d05-4f25-8778-adf3379abadc" width="300px">
+<img src="https://github.com/kevinmali/platformconverterapp/assets/132121875/0e8b14a4-d24c-4db2-8219-2cc03f199906" width="300px">
+<img src="https://github.com/kevinmali/platformconverterapp/assets/132121875/79ad868b-94cd-4370-94d1-eb44a2f9333d" width="300px">
+<img src="https://github.com/kevinmali/platformconverterapp/assets/132121875/5e0962d2-4373-46b5-9eea-fd8d31531503" width="300px">
+<img src="https://github.com/kevinmali/platformconverterapp/assets/132121875/d5b3aa33-9219-422f-a7b3-20d63dbd9e3f" width="300px">
+<img src="https://github.com/kevinmali/platformconverterapp/assets/132121875/12278189-0d6c-4124-a247-0144ac0c7155" width="300px">
+<img src="https://github.com/kevinmali/platformconverterapp/assets/132121875/4da510f4-6670-48d6-acee-d53da21e7e7b" width="300px">
+
 
